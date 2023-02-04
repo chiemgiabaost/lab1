@@ -1,0 +1,9 @@
+/**
+ * 
+ */
+/**
+ * @author giabao
+ *
+ */
+module SpecializedListInterface {
+}
